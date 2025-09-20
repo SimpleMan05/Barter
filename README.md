@@ -3,13 +3,14 @@
 <div align="center">
   <img src="public/image.png" alt="Powered by Bolt.new" width="100" height="100">
   
-  **Built for the Bolt Hackathon**
+  **Built for Everyone**
   
-  [![Powered by Bolt.new](https://img.shields.io/badge/Powered%20by-Bolt.new-purple?style=for-the-badge)](https://bolt.new/)
+  
   [![React](https://img.shields.io/badge/React-18.3.1-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
   [![Supabase](https://img.shields.io/badge/Supabase-Backend-green?style=for-the-badge&logo=supabase)](https://supabase.com/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-blue?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
+  [![associated by Bolt.new](https://img.shields.io/badge/Powered%20by-Bolt.new-purple?style=for-the-badge)](https://bolt.new/)
 </div>
 
 ## 🌟 Overview
@@ -112,7 +113,7 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 npm run dev
 ```
 
-The application will be available at `http://localhost:5173`
+The application will be available at `http://localhost:5173` or your respective local server
 
 ## 📁 Project Structure
 
@@ -313,13 +314,13 @@ We welcome contributions! Please follow these steps:
 - Verify all dependencies are installed
 
 ### Getting Help
-- Check the [Issues](https://github.com/your-username/barter-skill-sharing/issues) page
+- Check the [Issues](https://github.com/SimpleMan05/Barter/issues) page
 - Review the [STRUCTURE.md](STRUCTURE.md) for technical details
 - Contact the development team
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](GNU LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -331,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/your-username/barter-skill-sharing](https://github.com/your-username/barter-skill-sharing)
+- **Project Link**: [https://github.com/SimpleMan05/Barter](GitHub Link)
 - **Live Demo**: [https://golden-kulfi-db249d.netlify.app](https://golden-kulfi-db249d.netlify.app)
 - **Built with**: [Bolt.new](https://bolt.new/)
 

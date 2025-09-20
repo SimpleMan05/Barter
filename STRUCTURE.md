@@ -193,7 +193,7 @@ messages         # User communications
 2. Install dependencies with `npm install`
 3. Configure environment variables
 4. Start development server with `npm run dev`
-5. Access application at `http://localhost:5173`
+5. Access application at `http://localhost:5173` , or on your respective local server
 
 ### Code Quality
 - **ESLint**: Automated code linting
